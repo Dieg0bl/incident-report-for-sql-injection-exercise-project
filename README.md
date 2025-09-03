@@ -17,9 +17,28 @@
 
 <!-- endhide -->
 
-## 🌱 How to start this project?
+## 📋 Project Purpose
 
 This exercise aims to teach students how to identify and report an SQL injection vulnerability using the Damn Vulnerable Web Application (DVWA). The report should be made according to ISO 27001 standards for information security incident management.
+
+**Learning Objectives:**
+- Understand SQL injection vulnerabilities
+- Learn to use DVWA for security testing
+- Practice creating ISO 27001 compliant incident reports
+- Gain hands-on experience with cybersecurity tools
+
+## 🛠️ Technologies Used
+
+- **Virtualization:** VirtualBox
+- **Operating System:** Debian Linux
+- **Web Server Stack:** LAMP (Linux, Apache, MySQL/MariaDB, PHP)
+- **Vulnerable Application:** DVWA (Damn Vulnerable Web Application)
+- **Database:** MySQL/MariaDB
+- **Security Standards:** ISO 27001
+- **Languages:** SQL, PHP, HTML
+- **Tools:** Command Line, Web Browser
+
+## 🌱 How to Install and Execute
 
 ### Requirements
 

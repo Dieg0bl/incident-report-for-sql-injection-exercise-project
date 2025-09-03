@@ -19,9 +19,28 @@
 
 <!-- endhide -->
 
-## 🌱 ¿Cómo empezar este proyecto?
+## 📋 Propósito del Proyecto
 
 Este ejercicio tiene como objetivo enseñar a los estudiantes cómo identificar y reportar una vulnerabilidad de inyección SQL utilizando la aplicación web Damn Vulnerable Web Application (DVWA). El reporte se debe realizar de acuerdo a las normas ISO 27001 para la gestión de incidentes de seguridad de la información.
+
+**Objetivos de Aprendizaje:**
+- Comprender las vulnerabilidades de inyección SQL
+- Aprender a usar DVWA para pruebas de seguridad
+- Practicar la creación de informes de incidentes compatibles con ISO 27001
+- Obtener experiencia práctica con herramientas de ciberseguridad
+
+## 🛠️ Tecnologías Utilizadas
+
+- **Virtualización:** VirtualBox
+- **Sistema Operativo:** Debian Linux
+- **Stack de Servidor Web:** LAMP (Linux, Apache, MySQL/MariaDB, PHP)
+- **Aplicación Vulnerable:** DVWA (Damn Vulnerable Web Application)
+- **Base de Datos:** MySQL/MariaDB
+- **Estándares de Seguridad:** ISO 27001
+- **Lenguajes:** SQL, PHP, HTML
+- **Herramientas:** Línea de Comandos, Navegador Web
+
+## 🌱 Cómo Instalar y Ejecutar
 
 ### Requisitos
 
