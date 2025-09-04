@@ -1,0 +1,10 @@
+# GitHub About Section - Copy and Paste
+
+## English Version (Recommended)
+Cybersecurity Education: SQL Injection Detection & ISO 27001 Incident Reporting. Interactive learning project teaching students to identify SQL injection vulnerabilities using DVWA and create professional incident reports following ISO 27001 standards.
+
+## Spanish Version
+Educación en Ciberseguridad: Detección de Inyección SQL e Informes de Incidentes ISO 27001. Proyecto educativo interactivo que enseña a estudiantes a identificar vulnerabilidades de inyección SQL usando DVWA y crear informes profesionales siguiendo estándares ISO 27001.
+
+## Suggested Topics for GitHub
+cybersecurity, sql-injection, iso-27001, dvwa, education, security-training, penetration-testing, incident-management
